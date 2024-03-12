@@ -1,7 +1,7 @@
 ### Oiii! 👋 Eu sou Tai Mellonny.
 
 - 🔭 Aprendiz de Programadora
-- 🌱 Batalhando para sem uma Full Stack
+- 🌱 Batalhando para ser uma Full Stack
 
   <div>
     <a href="https://linktr.ee/tai_mellonny">
