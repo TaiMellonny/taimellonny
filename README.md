@@ -101,7 +101,7 @@ Me chamo Atamires, sou formada em Direito, mas apaixonada por Tecnologia. Durant
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=taymellonny&theme=tsynthwave&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimellonny&theme=tsynthwave&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
