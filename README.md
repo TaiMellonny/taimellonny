@@ -73,6 +73,8 @@ Me chamo Atamires, sou formada em Direito, mas apaixonada por Tecnologia. Durant
 <br/>
 <br/>
 
+</p>
+
 ---
 
 ### 📊 Estatísticas
