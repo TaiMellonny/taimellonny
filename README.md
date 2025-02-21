@@ -4,14 +4,14 @@
 
 Me chamo Atamires, sou formada em direito, mas apaixonada por tecnologia. Durante a pandemia voltei meus olhos ao estudo de tecnologias para conseguir atender meus clientes e despertei um amor antigo. Com isso, iniciei nova gradução em Análise e Desenvolvimento de Sistemas e me formo ainda em 2025. Atualmente, já conto com experiência em gestão de automações tanto em mercado financeiro (operações DayTrader - Bolsa de Valores), como também nas mais diversas automações para otimização de tempo de resposta em redes sociais e whatsapp. As possibilidades me encantam cada vez mais!
 
-    <a href="https://github.com/TaiMellonny?tab=repositories&sort=stargazers">
+    <a href="https://github.com/taiMellonny?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=ff1493&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/TaiMellonny?tab=followers">
+    <a href="https://github.com/taiMellonny?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
