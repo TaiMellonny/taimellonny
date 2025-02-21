@@ -34,6 +34,44 @@ Me chamo Atamires, sou formada em direito, mas apaixonada por tecnologia. Durant
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="n8n"
+    title="n8n" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.worldvectorlogo.com/logos/n8n.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Make"
+    title="Make" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.worldvectorlogo.com/logos/integromat.svg" 
+/>
+
+
+
 <br/>
 <br/>
 
