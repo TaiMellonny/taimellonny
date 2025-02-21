@@ -49,7 +49,7 @@ Me chamo Atamires, sou formada em Direito, mas apaixonada por Tecnologia. Durant
     title="n8n" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://n8n.io/static/logo.svg" 
+    src="https://cdn.simpleicons.org/n8n" 
 />
 
 <img 
@@ -58,7 +58,7 @@ Me chamo Atamires, sou formada em Direito, mas apaixonada por Tecnologia. Durant
     title="Make" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Make_logo.svg" 
+    src="https://cdn.simpleicons.org/make" 
 />
 
 <img 
@@ -67,7 +67,7 @@ Me chamo Atamires, sou formada em Direito, mas apaixonada por Tecnologia. Durant
     title="ManyChat" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://manychat.com/assets/images/logo.svg" 
+    src="https://cdn.simpleicons.org/manychat" 
 />
 
 <br/>
