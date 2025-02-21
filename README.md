@@ -2,7 +2,7 @@
 
 **`Desenvolvedora em desenvolvimento`**
 
-Me chamo Atamires, sou formada em direito, mas apaixonada por tecnologia. Durante a pandemia voltei meus olhos ao estudo de tecnologias para conseguir atender meus clientes e despertei um amor antigo. Com isso, iniciei nova gradução em Análise e Desenvolvimento de Sistemas e me formo ainda em 2025. Atualmente, já conto com experiência em gestão de automações tanto em mercado financeiro (operações DayTrader - Bolsa de Valores), como também nas mais diversas automações para otimização de tempo de resposta em redes sociais e whatsapp. As possibilidades me encantam cada vez mais!
+Me chamo Atamires, sou formada em Direito, mas apaixonada por Tecnologia. Durante a pandemia voltei meus olhos ao estudo de tecnologias para conseguir atender meus clientes e despertei um amor antigo. Com isso, iniciei nova gradução em Análise e Desenvolvimento de Sistemas e me formo ainda em 2025. Atualmente, já conto com experiência em gestão de automações tanto em mercado financeiro (operações DayTrader - Bolsa de Valores), como também nas mais diversas automações para otimização de tempo de resposta em redes sociais e whatsapp. As possibilidades me encantam cada vez mais!
 
 </p>
     <a href="https://github.com/taiMellonny?tab=repositories&sort=stargazers">
@@ -45,15 +45,6 @@ Me chamo Atamires, sou formada em direito, mas apaixonada por tecnologia. Durant
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="n8n"
     title="n8n" 
     width="30px" 
@@ -70,7 +61,14 @@ Me chamo Atamires, sou formada em direito, mas apaixonada por tecnologia. Durant
     src="https://cdn.worldvectorlogo.com/logos/integromat.svg" 
 />
 
-
+<img 
+    align="left" 
+    alt="Manychat"
+    title="Manychat" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.worldvectorlogo.com/logos/manychat.svg" 
+/>
 
 <br/>
 <br/>
