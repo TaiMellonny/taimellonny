@@ -23,7 +23,7 @@ Me chamo Atamires, sou formada em Direito, mas apaixonada por Tecnologia. Durant
 
 ---
 
-### 🤖 Linguagens
+### 🤖 Linguagens & Tecnologias
 
 <img 
     align="left" 
@@ -49,7 +49,7 @@ Me chamo Atamires, sou formada em Direito, mas apaixonada por Tecnologia. Durant
     title="n8n" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.worldvectorlogo.com/logos/n8n.svg" 
+    src="https://n8n.io/static/logo.svg" 
 />
 
 <img 
@@ -58,20 +58,22 @@ Me chamo Atamires, sou formada em Direito, mas apaixonada por Tecnologia. Durant
     title="Make" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.worldvectorlogo.com/logos/integromat.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Make_logo.svg" 
 />
 
 <img 
     align="left" 
-    alt="Manychat"
-    title="Manychat" 
+    alt="ManyChat"
+    title="ManyChat" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.worldvectorlogo.com/logos/manychat.svg" 
+    src="https://manychat.com/assets/images/logo.svg" 
 />
 
 <br/>
 <br/>
+
+---
 
 ### 📊 Estatísticas
 
