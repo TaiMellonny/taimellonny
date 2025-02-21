@@ -67,7 +67,7 @@ Me chamo Atamires, sou formada em Direito, mas apaixonada por Tecnologia. Durant
     title="ManyChat" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/manychat.svg" 
+    src="https://logo.clearbit.com/manychat.com" 
 />
 
 <br/>
