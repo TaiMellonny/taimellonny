@@ -4,6 +4,7 @@
 
 Me chamo Atamires, sou formada em direito, mas apaixonada por tecnologia. Durante a pandemia voltei meus olhos ao estudo de tecnologias para conseguir atender meus clientes e despertei um amor antigo. Com isso, iniciei nova gradução em Análise e Desenvolvimento de Sistemas e me formo ainda em 2025. Atualmente, já conto com experiência em gestão de automações tanto em mercado financeiro (operações DayTrader - Bolsa de Valores), como também nas mais diversas automações para otimização de tempo de resposta em redes sociais e whatsapp. As possibilidades me encantam cada vez mais!
 
+</p>
     <a href="https://github.com/taiMellonny?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -22,7 +23,7 @@ Me chamo Atamires, sou formada em direito, mas apaixonada por tecnologia. Durant
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens
 
 <img 
     align="left" 
@@ -44,7 +45,7 @@ Me chamo Atamires, sou formada em direito, mas apaixonada por tecnologia. Durant
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=TaiMellonny&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
