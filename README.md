@@ -1,4 +1,4 @@
-### Oiii! 👋 Eu sou Tai Mellonny.
+### Oiii! 👋 Eu sou Atamires.
 
-- 🔭 Aprendiz de Programadora
-- 🌱 Batalhando para ser uma Full Stack
+- Gestora de automações
+- Aprendiz de Programadora
