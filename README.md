@@ -2,7 +2,7 @@
 
 **`Desenvolvedora em desenvolvimento`**
 
-Me chamo Atamires, sou formada em Direito, mas apaixonada por Tecnologia. Durante a pandemia voltei meus olhos ao estudo de tecnologias para conseguir atender meus clientes e despertei um amor antigo. Com isso, iniciei nova gradução em Análise e Desenvolvimento de Sistemas e me formo ainda em 2025. Atualmente, já conto com experiência em gestão de automações tanto em mercado financeiro (operações DayTrader - Bolsa de Valores), como também nas mais diversas automações para otimização de tempo de resposta em redes sociais e whatsapp. As possibilidades me encantam cada vez mais!
+Me me chamo Atamires, sou formada em Direito, mas apaixonada por Tecnologia. Durante a pandemia voltei meus olhos ao estudo de tecnologias para conseguir atender meus clientes e despertei um amor antigo. Com isso, iniciei nova gradução em Análise e Desenvolvimento de Sistemas e me formo ainda em 2025. Atualmente, já conto com experiência em gestão de automações tanto em mercado financeiro (operações DayTrader - Bolsa de Valores), como também nas mais diversas automações para otimização de tempo de resposta em redes sociais e whatsapp. As possibilidades me encantam cada vez mais!
 
 </p>
     <a href="https://github.com/taiMellonny?tab=repositories&sort=stargazers">
