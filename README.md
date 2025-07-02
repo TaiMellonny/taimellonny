@@ -79,6 +79,15 @@ Me chamo Atamires, sou formada em Direito, mas apaixonada por Tecnologia. Durant
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="MT5"
+    title="MT5" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="[https://logo.clearbit.com/manychat.com](https://www.metatrader5.com/i/metatrader-5-logo_2x.png)" 
+/>
+
 <br/>
 <br/>
 
