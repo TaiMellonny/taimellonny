@@ -83,7 +83,7 @@ Me chamo Atamires, sou formada em Direito, mas apaixonada por Tecnologia. Durant
     align="left" 
     alt="MT5"
     title="MT5" 
-    width="1000px" 
+    width="100px" 
     style="padding-right: 70px;" 
     src="https://www.metatrader5.com/c/16/2010/11/metatrader5_logo.png" 
 />
